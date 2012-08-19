@@ -1,6 +1,0 @@
-注：此README极不规范...
-
-本来只是想练练git和github的使用，又想到gainmonitor服务器快到期了，所以用它来做第一个git项目了。
-gainmonitor是个无聊的小游戏，不过对于Javascript和小游戏开发入门什么的应该还是有些帮助。（主要代码写了注释）
-感兴趣的同学随便看看，内附git推荐学习资料和propulsion游戏引擎链接。
-如果你有github账号记得互粉哦，嘿嘿。
